@@ -1,0 +1,26 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color:#a2d9ff80;
+}
+
+#projects {
+  background-color: #a2d9ff80;
+}
+
+section{
+  padding-top: 5rem;
+}
+
+h2{
+  margin-bottom: -10px;
+}
+
+.line{
+  display: inline-flex;
+  background-color: #0d6efd;
+  width: 30px;
+  height: 5px;
+  border-radius: 2px;
+  justify-content: center;
+  margin-top: -20px;
+}
